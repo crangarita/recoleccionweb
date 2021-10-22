@@ -1,0 +1,10 @@
+header {
+	height: 200px;
+	background-color: gray;
+}
+
+footer {
+	margin-top: 20px;
+	height: 60px;
+	background-color: gray;
+}
